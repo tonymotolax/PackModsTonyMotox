@@ -1,6 +1,6 @@
 # MOD PACK PackModsTonyMotox
 
-**ModPack:** 1.0.0.0
+**ModPack:** 1.0.1.0
 
 **Ultimo Autor:** Antonio Urdiales Mena.
 
@@ -14,6 +14,8 @@ Especificaciones técnicas:
 - Versión minecraft: 1.18.2 
 
 - Forge: 40.1.60
+
+- OptiFine HD H7 Ultra
 
 ------------
 
@@ -33,4 +35,5 @@ Especificaciones técnicas:
 - TLSkinCape V_1.25
 - The One Probe V_1.18-5.1.0
 - Tinkers´Contruct V_3.5.1.31
-- Waila (Jade) 5.2.3
+- Waila (Jade) V_5.2.3
+- Just Enough Items V_10.1.0.219
