@@ -10,8 +10,10 @@
 ------------
 
 Especificaciones técnicas:
-Versión minecraft: 1.18.2 
-Forge: 40.1.60
+
+- Versión minecraft: 1.18.2 
+
+- Forge: 40.1.60
 
 ------------
 
