@@ -1,6 +1,6 @@
 # MOD PACK PackModsTonyMotox
 
-**ModPack:** 1.0.0.0.
+**ModPack:** 1.0.0.0
 
 **Ultimo Autor:** Antonio Urdiales Mena.
 
