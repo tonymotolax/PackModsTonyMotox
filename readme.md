@@ -8,7 +8,6 @@
 
 **Fecha MOD:** 2022-07-15 Saturday.
 
-
 ------------
 
 Especificaciones técnicas:
