@@ -1,10 +1,12 @@
 # MOD PACK PackModsTonyMotox
 
-**ModPack:** 1.0.1.0
+**ModPack:** 1.0.2.0
 
 **Ultimo Autor:** Antonio Urdiales Mena.
 
-**Fecha MOD:** 2022-07-14 Thursday.
+**Descripción:** Se quita Dynamic Trees V_1.18.2-0.11.0-Alpha2, Just Enough Items V_10.1.0.219, se agrega Xaeros_Minimap_22.4.0_Forge_1.18.2 y jei-1.18.2-9.7.0.209
+
+**Fecha MOD:** 2022-07-15 Saturday.
 
 
 ------------
@@ -36,4 +38,5 @@ Especificaciones técnicas:
 - The One Probe V_1.18-5.1.0
 - Tinkers´Contruct V_3.5.1.31
 - Waila (Jade) V_5.2.3
-- Just Enough Items V_10.1.0.219
+- Just Enough Items V_9.7.0.209
+- Xaeros_Minimap V_22.4.0_Forge_1.18.2
